@@ -1,0 +1,1 @@
+module.exports = { reactStrictMode: true, env: { API_BASE: 'https://dramabox.sansekai.my.id' } }
